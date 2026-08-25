@@ -31,4 +31,4 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 No extra dependencies — download and run.
 
 **How do I update it?**
-Grab the latest release from the download link above.          
+Grab the latest release from the download link above.           
